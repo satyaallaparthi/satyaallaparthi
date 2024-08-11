@@ -74,8 +74,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
+
 Thank you for visiting my GitHub Pages site. I hope you find the content useful and engaging. If you have any questions or just want to connect, don’t hesitate to reach out!
 
 ---
 
 **Note**: Update the placeholders and project details to reflect your actual work and preferences.
+
+
+theme: jekyll-theme-minimal
